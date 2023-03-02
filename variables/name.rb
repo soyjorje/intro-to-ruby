@@ -6,3 +6,5 @@ puts "Hello and welcome. What is your name?"
 name = gets.chomp
 
 greeter(name)
+
+10.times { |n| puts name }
