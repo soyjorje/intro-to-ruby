@@ -1,0 +1,3 @@
+This exercise was completed unknowingly in previous chapter. 
+I've created a greeter method which takes in and combines first and last name.
+Then puts out said name as a greeting. 
