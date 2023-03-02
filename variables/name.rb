@@ -7,4 +7,4 @@ name = gets.chomp
 
 greeter(name)
 
-10.times { |n| puts name }
+10.times { puts name }
